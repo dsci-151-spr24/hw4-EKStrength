@@ -1,6 +1,7 @@
 ---
 title: "HW 04 - Modeling the GSS"
 output: html_document
+author: "Evan Kurtz"
 ---
 
 ```{r include = FALSE}
